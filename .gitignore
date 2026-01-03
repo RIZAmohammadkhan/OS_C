@@ -1,0 +1,22 @@
+# Build outputs
+/build/
+
+# Compiled objects & binaries
+*.o
+*.a
+*.so
+*.so.*
+*.dylib
+*.exe
+
+# Debug/coverage
+*.dSYM/
+*.gcda
+*.gcno
+*.gcov
+
+# Editor/OS noise
+.DS_Store
+*.swp
+*.swo
+.vscode/
