@@ -1,4 +1,4 @@
-# Calculator OS (Simulated)
+# Calculator OS
 
 Small, robust "calculator OS" simulation written in portable C.
 
